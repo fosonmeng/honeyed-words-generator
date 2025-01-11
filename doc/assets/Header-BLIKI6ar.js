@@ -1,4 +1,4 @@
-import{j as i,d as n}from"./index-BAiV4GWh.js";import{S as a}from"./StyledWordBox-D5yA5gNB.js";import r from"./StartButton-gmWpWoCz.js";import{f as s,b as l,g as m}from"./animates-HAWQhuyM.js";import{I as d}from"./logo-DKZyjNt5.js";import"./heart-CAqKcttF.js";const p=n.header`
+import{j as i,d as n}from"./index-DkB9s-eS.js";import{S as a}from"./StyledWordBox-P5BqGnvj.js";import r from"./StartButton-CmmnO2rX.js";import{f as s,b as l,g as m}from"./animates-BCuKWKzD.js";import{I as d}from"./logo-baNVkwH2.js";import"./heart-CAqKcttF.js";const p=n.header`
   position: fixed;
   top: 0;
   left: 0;
