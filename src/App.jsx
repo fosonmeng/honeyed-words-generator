@@ -3,7 +3,7 @@ import styled from 'styled-components';
 
 import { getQueryValue } from './utils';
 import Loading from './components/Loading';
-import Words from './assets/words';
+// import Words from './assets/words';
 
 // const Card = lazy(() => import('./components/Card'));
 const Card = lazy(() => import('./components/Card'));
@@ -27,6 +27,8 @@ const MetooButton = styled(StartButton)`
 const wordsIdx = getQueryValue('idx');
 const hasWords = wordsIdx !== '';
 const App = () => {
+  const Words = window.G_Words;
+
   let count = wordsIdx !== '' ? Words[wordsIdx].length : 0;
 
   const [start, setStart] = useState(hasWords);
