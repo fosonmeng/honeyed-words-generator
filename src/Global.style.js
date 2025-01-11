@@ -21,6 +21,7 @@ const GlobalStyle = createGlobalStyle`
     margin:0 auto;
     min-height:100vh;
     position: relative;
+    overflow: hidden;
   }
   #root{
     min-height:100vh;
