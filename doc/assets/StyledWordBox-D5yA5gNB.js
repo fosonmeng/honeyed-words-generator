@@ -1,4 +1,4 @@
-import{d as a}from"./index-CaryvA-_.js";const e=a.span`
+import{d as a}from"./index-BAiV4GWh.js";const e=a.span`
   border: 2px solid #f1ad93;
   margin-left: -2px;
   margin-top: -2px;
